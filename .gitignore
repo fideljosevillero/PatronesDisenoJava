@@ -1,0 +1,74 @@
+# dependencies
+/.metadata
+
+.idea
+
+Servers/
+
+META-INF
+
+**/.apt_generated
+**/.apt_generated_tests
+**/.settings
+
+.factorypath
+.classpath
+.project
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+*.iml
+target
+
+bower_components/
+node_modules/
+
+# MEGAZORD (prototipo y styleguide)
+cosmos-front/cosmos-ui/src/main/webapp/megazord/bower_components/
+cosmos-front/cosmos-ui/src/main/webapp/megazord/node_modules/
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+# Gradle:
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# CMake
+cmake-build-debug/
+
+# Mongo Explorer plugin:
+.idea/**/mongoSettings.xml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+*.iml
+target
+
+#Ignore META-INF 
+META-INF
